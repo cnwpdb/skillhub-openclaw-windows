@@ -1,0 +1,17 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b5fff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1280" cy="180" r="180" fill="#22d3ee" opacity="0.18"/>
+  <circle cx="260" cy="760" r="220" fill="#f59e0b" opacity="0.14"/>
+  <text x="120" y="220" fill="#ffffff" font-size="74" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700">Windows 上玩转 SkillHub + OpenClaw</text>
+  <text x="120" y="320" fill="#dbeafe" font-size="40" font-family="Segoe UI, Microsoft YaHei, sans-serif">腾讯 SkillHub 安装、Tavily Web Search 接入、OpenClaw 安全执行配置</text>
+  <rect x="120" y="420" width="500" height="96" rx="20" fill="#ffffff" opacity="0.1"/>
+  <text x="150" y="482" fill="#ffffff" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif">更适合国内用户的 Skills 使用路径</text>
+  <rect x="120" y="560" width="260" height="76" rx="18" fill="#22c55e"/>
+  <text x="168" y="610" fill="#052e16" font-size="34" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-weight="700">一套流程跑通</text>
+</svg>
