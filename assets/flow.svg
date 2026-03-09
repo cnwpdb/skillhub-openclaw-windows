@@ -1,0 +1,33 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="520" fill="#f8fafc"/>
+  <style>
+    .box { fill:#ffffff; stroke:#2563eb; stroke-width:3; rx:18; }
+    .title { font: 700 26px 'Segoe UI','Microsoft YaHei',sans-serif; fill:#0f172a; }
+    .sub { font: 400 18px 'Segoe UI','Microsoft YaHei',sans-serif; fill:#334155; }
+    .arrow { stroke:#2563eb; stroke-width:4; fill:none; marker-end:url(#m); }
+  </style>
+  <defs>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="60" y="180" width="220" height="110" class="box"/>
+  <rect x="330" y="180" width="220" height="110" class="box"/>
+  <rect x="600" y="180" width="220" height="110" class="box"/>
+  <rect x="870" y="180" width="220" height="110" class="box"/>
+  <rect x="1140" y="180" width="220" height="110" class="box"/>
+  <text x="95" y="225" class="title">安装 SkillHub</text>
+  <text x="95" y="258" class="sub">腾讯入口 / Windows 适配版</text>
+  <text x="360" y="225" class="title">安装 tavily-search</text>
+  <text x="360" y="258" class="sub">skillhub install tavily-search</text>
+  <text x="645" y="225" class="title">配置 Tavily Key</text>
+  <text x="645" y="258" class="sub">TAVILY_API_KEY 注入</text>
+  <text x="900" y="225" class="title">OpenClaw 接入</text>
+  <text x="900" y="258" class="sub">skills.extraDirs + plugin</text>
+  <text x="1175" y="225" class="title">聊天里可调用</text>
+  <text x="1175" y="258" class="sub">exec allowlist + 审批</text>
+  <path d="M280 235 H330" class="arrow"/>
+  <path d="M550 235 H600" class="arrow"/>
+  <path d="M820 235 H870" class="arrow"/>
+  <path d="M1090 235 H1140" class="arrow"/>
+</svg>
