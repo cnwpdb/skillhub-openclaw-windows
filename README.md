@@ -25,10 +25,6 @@
   可直接下载的压缩包
 - `docs/github-article.md`
   GitHub 技术文档版文章
-- `docs/wechat-article.md`
-  微信公众号版文章
-- `docs/xiaohongshu-article.md`
-  小红书版文章
 - `examples/env.example`
   环境变量示例
 
@@ -126,6 +122,3 @@ flowchart TD
 ## 文档
 
 - [GitHub 技术文档](./docs/github-article.md)
-- [微信公众号版本](./docs/wechat-article.md)
-- [小红书版本](./docs/xiaohongshu-article.md)
-
