@@ -8,7 +8,7 @@
 2. 让 OpenClaw 识别并启用 SkillHub 插件
 3. 通过 `skillhub` 安装 `Tavily Web Search`
 4. 配置 `TAVILY_API_KEY`
-5. 让聊天中的 OpenClaw agent 能安全执行 `skillhub install ...`
+5. 让聊天中的 OpenClaw agent 能 safe 执行 `skillhub install ...`
 
 ## 适合谁
 
@@ -122,3 +122,11 @@ flowchart TD
 ## 文档
 
 - [GitHub 技术文档](./docs/github-article.md)
+
+## 关注我
+
+如果您觉得这个项目对您有帮助，欢迎关注我的微信公众号获取更多 AI 技术分享：
+
+<p align="center">
+  <img src="./1.png" alt="微信公众号" width="300" />
+</p>
